@@ -1,0 +1,30 @@
+.electronics
+{
+    display: flex; flex: 1; flex-direction: column;
+    margin: 0.1rem;
+    background-color:   rgb(223, 223, 223);
+    border-radius: 0.3rem;
+
+}
+.electronics-title
+{
+    display: flex; 
+    justify-content: center;
+    padding: 1rem;
+    background-color: chocolate;
+    border-radius: 0.1rem;
+    position: sticky; top: 3.53rem;
+    
+    
+}
+.electronics-title:hover
+{
+    background-color: rgb(240, 132, 55);
+}
+.electronics-content
+{
+    display: flex;  flex-direction: column;
+    margin: 0.1rem;
+
+}
+
