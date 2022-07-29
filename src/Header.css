@@ -19,15 +19,14 @@
 
 .home-icon
 {
-   border:  0.1rem solid #0e1828 !important;
-   border-radius: 0.1rem;
    font-size: 2.5rem !important;
    margin-left: 1rem;
+   border-radius: 0.3rem;
 }
 
 .home-icon:hover
 {
-   border-color: white !important;
+  background-color: #2e394b;
 }
 .header-search
 {
@@ -64,16 +63,15 @@
     align-items: center;
     display: flex;
     margin-right: 3.5rem;
-    padding:0.1rem;
+    padding:0.2rem;
     padding-top: 0.5rem;
     padding-bottom: 0.5rem;
-    border: 0.1rem solid #0e1828;
-    border-radius: 0.1rem;
+    border-radius: 0.3rem;
     font-size: 1.5rem;
 }
 .header-login:hover
 {
-    border-color: white;
+    background-color: #2e394b;
 }
 .login-icon
 {
